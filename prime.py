@@ -1,4 +1,4 @@
-# Calculate the sum of prime numbers below 100:
+# Prime numbers generator
 for i in range(2, 100):
     for j in range(2, i):
         if i % j == 0:
